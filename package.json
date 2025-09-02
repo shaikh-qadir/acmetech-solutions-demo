@@ -1,0 +1,1 @@
+{\n  "name": "acmetech-demo-app",\n  "version": "1.0.0",\n  "main": "app.js",\n  "dependencies": {\n    "express": "^4.17.1",\n    "lodash": "^4.17.21"\n  }\n}
